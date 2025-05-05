@@ -18,7 +18,7 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/ms-navita-rajbhar-09470a329" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a></p>
+<p><a target="_blank" href="https://www.linkedin.com/in/ms-navita-rajbhar-09470a329?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEG4ZGTmqSs2xFkDLdxq4SA%3D%3D" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=navitaRajbhar11&show_icons=true&locale=en" alt="navitaRajbhar11" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navitaRajbhar11&" alt="navitaRajbhar11" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=navitaRajbhar11&show_icons=true&locale=en&layout=compact" alt="navitaRajbhar11" /></p>
